@@ -14,7 +14,7 @@
       <pubDate>Sun, 29 Aug 2021 14:30:09 +0200</pubDate>
       
       <guid>https://m-koczorowski.github.io/posts/automating-blog-updates/</guid>
-      <description>How I update my blog with a ten line bash script </description>
+      <description>How I update my blog with a stupid simple ten line bash script. This post can sound like stating the obvious, but if something can be done by script, it is better decision to automate it. When I finished setting up the whole website, I had to solve one annoying problem. Do I really have to input like 9 separate commands and switch between directories to update just one blog post?</description>
     </item>
     
     <item>
