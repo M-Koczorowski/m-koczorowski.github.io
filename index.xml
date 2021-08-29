@@ -18,15 +18,6 @@
     </item>
     
     <item>
-      <title>Why I Chose Hugo</title>
-      <link>https://m-koczorowski.github.io/posts/why-i-chose-hugo/</link>
-      <pubDate>Sat, 28 Aug 2021 13:39:14 +0200</pubDate>
-      
-      <guid>https://m-koczorowski.github.io/posts/why-i-chose-hugo/</guid>
-      <description>I chose Hugo because of the time that it takes to write a blog posts in html on a static site without any editor. </description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>https://m-koczorowski.github.io/about-me/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
