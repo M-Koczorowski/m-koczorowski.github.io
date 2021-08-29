@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 28 Aug 2021 13:39:14 +0200</lastBuildDate><atom:link href="https://m-koczorowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 14:30:09 +0200</lastBuildDate><atom:link href="https://m-koczorowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Blog Updates</title>
+      <link>https://m-koczorowski.github.io/posts/automating-blog-updates/</link>
+      <pubDate>Sun, 29 Aug 2021 14:30:09 +0200</pubDate>
+      
+      <guid>https://m-koczorowski.github.io/posts/automating-blog-updates/</guid>
+      <description>How I update my blog with a ten line bash script </description>
+    </item>
+    
     <item>
       <title>Why I Chose Hugo</title>
       <link>https://m-koczorowski.github.io/posts/why-i-chose-hugo/</link>
