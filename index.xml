@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 29 Aug 2021 14:30:09 +0200</lastBuildDate><atom:link href="https://m-koczorowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 19:13:48 +0200</lastBuildDate><atom:link href="https://m-koczorowski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google CTF Begginers Quest Writeup</title>
+      <link>https://m-koczorowski.github.io/posts/google-ctf-begginers-quest-writeup/</link>
+      <pubDate>Thu, 02 Sep 2021 19:13:48 +0200</pubDate>
+      
+      <guid>https://m-koczorowski.github.io/posts/google-ctf-begginers-quest-writeup/</guid>
+      <description>How I spent definitely too much time on an begginer capture the flag. Last weekend,while scrolling twitter I saw the post about Google CTF. Of course I am not qualified to solve it, I clearly do not have much needed experience with such competitions and programming as a whole. After checking it out I stumbled upon an &amp;ldquo;Google CTF begginers quest&amp;rdquo; and tasks here looked like they were not that hard.</description>
+    </item>
+    
     <item>
       <title>Automating Blog Updates</title>
       <link>https://m-koczorowski.github.io/posts/automating-blog-updates/</link>

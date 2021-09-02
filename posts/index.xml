@@ -6,8 +6,28 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 29 Aug 2021 14:30:09 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 02 Sep 2021 19:13:48 +0200</lastBuildDate>
 		<atom:link href="https://m-koczorowski.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Google CTF Begginers Quest Writeup</title>
+			<link>https://m-koczorowski.github.io/posts/google-ctf-begginers-quest-writeup/</link>
+			<pubDate>Thu, 02 Sep 2021 19:13:48 +0200</pubDate>
+			
+			<guid>https://m-koczorowski.github.io/posts/google-ctf-begginers-quest-writeup/</guid>
+			<description>How I spent definitely too much time on an begginer capture the flag. Last weekend,while scrolling twitter I saw the post about Google CTF. Of course I am not qualified to solve it, I clearly do not have much needed experience with such competitions and programming as a whole. After checking it out I stumbled upon an &amp;ldquo;Google CTF begginers quest&amp;rdquo; and tasks here looked like they were not that hard.</description>
+			<content type="html"><![CDATA[<h2 id="how-i-spent-definitely-too-much-time-on-an-begginer-capture-the-flag">How I spent definitely too much time on an begginer capture the flag.</h2>
+<p>Last weekend,while scrolling twitter I saw the post about Google CTF. Of course I am not qualified to solve it, I clearly do not have much needed experience with such competitions and programming as a whole. After checking it out I stumbled upon an <a href="https://capturetheflag.withgoogle.com/beginners-quest" title="CTF">&ldquo;Google CTF begginers quest&rdquo;</a> and tasks here looked like they were not that hard.</p>
+<h2 id="just-secret-agent-things">Just secret agent things</h2>
+<p>So after my introduction to my new role as a spy I quickly grabbed a friend and we started to get going with the first task.</p>
+<h2 id="novosibirsk---cttv-hacking">Novosibirsk - CTTV hacking</h2>
+<p>First we were tasked with, breaking into a monitoring system of some super secret facility, secured by famous cybersecurity company &ldquo;YesWeAreSecure™&rdquo;. First thing I done was viewing the source code and look what I found, a javacript that checks the password. <img src="static/images/source-cctv.png" alt=""></p>
+<p>Then I concluded that the numbers in the starting with 52xx were ASCII characters and all left to do was to substract 0xCafe from that. The password I got was</p>
+<pre tabindex="0"><code>GoodPassword
+</code></pre><p>which took me to the page with the flag:</p>
+<pre tabindex="0"><code>CTF{IJustHopeThisIsNotOnShodan}
+</code></pre>]]></content>
+		</item>
 		
 		<item>
 			<title>Automating Blog Updates</title>
